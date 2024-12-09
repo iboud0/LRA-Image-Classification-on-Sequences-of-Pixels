@@ -2,8 +2,7 @@
 
 Before running the script, you need to install the `torchdiffeq` package. Use the following command:
 
-```bash
-pip install torchdiffeq
+```pip install torchdiffeq```
 
 
 
