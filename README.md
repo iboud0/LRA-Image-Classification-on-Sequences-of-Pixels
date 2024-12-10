@@ -85,10 +85,7 @@ Each model directory contains:
    cd LRA-Image-Classification-on-Sequences-of-Pixels
    ```
 
-2. Install required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+Note: No required dependencies:
 
 ### Running Models
 Each model folder contains details explaining:
