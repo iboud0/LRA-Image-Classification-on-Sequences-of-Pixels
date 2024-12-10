@@ -85,7 +85,7 @@ Each model directory contains:
    cd LRA-Image-Classification-on-Sequences-of-Pixels
    ```
 
-Note: No required dependencies:
+Note: No required dependencies.
 
 ### Running Models
 Each model folder contains details explaining:
